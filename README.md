@@ -1,2 +1,2 @@
-# initial commit
+# hello world
 My first repository on GitHub
